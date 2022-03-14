@@ -1,0 +1,4 @@
+Virtual Environment -
+ python -m venv ~/env
+ ~/env/bin/activate
+ deavtivate
